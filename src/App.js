@@ -1,9 +1,12 @@
-import React from 'react';
-import CommentBox from "./containers/CommentBox";
+import React, {Component} from 'react';
+import NewsContainer from './containers/NewsContainer';
 
-function App() {
-  return <CommentBox />
-
+class App extends Component {
+  render() {
+    return (
+      <NewsContainer/>
+    );
+  }
 }
 
 export default App;
