@@ -2,16 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "title": "Sample Article 1",
-      "author": "Harry"
+      "name": "Richard Trist",
+      "number": "9899798876"
     },
     {"id": 2,
-    "title": "Sample Article 2",
-    "author": "Sara"
+    "name": "John Marvin",
+    "number": "5567888776"
   },
   {"id": 3,
-  "title": "Sample Article 3",
-  "author": "John"
+  "name": "Sara Anita",
+  "number": "99098876775"
   }
  ]
 }
